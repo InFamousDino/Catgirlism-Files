@@ -56,14 +56,30 @@ body {
 .active-nav-link a {
     color: white !important; 
 }
+/* Home page */
 
-/* About page */
+.content-wrapper {
+    padding: 30px;
+    color: white;
+}
+
+/* Catgirl page */
+
+.tableofcatgirls {
+    padding: 30px;
+    color: white;
+}
+
+.Level-Descriptions {
+    padding: 30px;
+    color: white;
+}
 
 .profile-content-wrapper {
     padding: 30px;
 }
 
-.profile-content-wrapper p { 
+.profile-content-wrapper { 
     color: white;
 }
 
