@@ -63,6 +63,18 @@ body {
     padding: 30px;
 }
 
-.profile-content-wrapper { 
+.profile-content-wrapper p { 
+    color: white;
+}
+
+.links {
+    padding: 30px;
+
+    display: grid;
+    grid-template-columns: 1px;
+}
+
+.page-content {
+    padding: 38px;
     color: white;
 }
