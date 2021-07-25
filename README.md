@@ -1,3 +1,3 @@
-# SebWasHere.xyz
+# Catgirlism Files
 
-Amogus lol
+Catgirls from plasma are in this website.
