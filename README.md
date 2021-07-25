@@ -1,1 +1,3 @@
 # SebWasHere.xyz
+
+Amogus lol
